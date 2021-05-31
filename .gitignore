@@ -1,0 +1,10 @@
+# exclude everything
+*
+.DS_Store
+env/
+
+# exception to the rule
+!.gitignore
+!Rasterio.ipynb
+!numpy_matplotlib.ipynb
+!requirements.txt
